@@ -138,7 +138,7 @@ exports.default = {
     db_name: "ex",
     db_username: "root",
     db_password: "123456",
-    db_host: "192.168.2.239",
+    db_host: "47.90.123.34",
     db_dialect: 'mysql',
     db_port: 3306,
 
